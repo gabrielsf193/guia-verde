@@ -11,10 +11,10 @@
 }
 
 .intro h2 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     color: rgb(255, 253, 117);
-    margin-top: 1rem;
+    margin-bottom: 2rem;
 }
 
 .intro p {
