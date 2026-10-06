@@ -323,8 +323,8 @@ body {
 }
 
 .info-highlight {
-    background: linear-gradient(135deg, rgba(25,135,84,0.1) 0%, rgba(32,201,151,0.1) 100%);
-    border: 1px solid rgba(25,135,84,0.3);
+    background: linear-gradient(135deg, rgb(183, 255, 135) 0%, rgb(189, 255, 103) 100%);
+    border: 2px solid rgb(222, 255, 179);
     border-radius: 8px;
     padding: 1rem;
     margin: 1rem 0;
